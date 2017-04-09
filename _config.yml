@@ -1,0 +1,8 @@
+title: Heather A. Soyka, PhD
+description: Postdoctoral Researcher, DataONE + NCEAS
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
