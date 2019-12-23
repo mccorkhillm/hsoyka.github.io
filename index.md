@@ -1,8 +1,8 @@
 # About Me
-##### Education
+#### Education
 I completed my PhD at the University of Pittsburgh iSchool (Spring 2015), in the Library and Information Science program. I also hold a masters degree from the Simmons College School of Library and Information Science (SLIS), with a concentration in Archives and Records Management, and a bachelor’s degree in history from The Ohio State University.
 
-##### Research Areas
+#### Research Areas
 
    * archives and recordkeeping
    * community heritage informatics
