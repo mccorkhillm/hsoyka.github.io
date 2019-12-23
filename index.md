@@ -14,9 +14,9 @@ I completed my PhD at the University of Pittsburgh iSchool (Spring 2015), in the
 
 
 # Contact Me
-#### [Github: hsoyka](https://github.com/hsoyka)
-#### [Twitter: @snarkivist7](https://twitter.com/snarkivist7)
-#### [Email: hsoyka@kent.edu](mailto:hsoyka@kent.edu)
+#### Github: [hsoyka](https://github.com/hsoyka)
+#### Twitter: [@snarkivist7](https://twitter.com/snarkivist7)
+#### Email: [hsoyka@kent.edu](mailto:hsoyka@kent.edu)
 #### [ORCID](http://orcid.org/0000-0002-0566-4012)
 #### [Academia.edu profile](http://pitt.academia.edu/HeatherSoyka)
 
